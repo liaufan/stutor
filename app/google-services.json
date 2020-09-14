@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556709538",
+    "firebase_url": "https://tutor-agent-fe351.firebaseio.com",
+    "project_id": "tutor-agent-fe351",
+    "storage_bucket": "tutor-agent-fe351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556709538:android:60f656accfff45d4ec49fb",
+        "android_client_info": {
+          "package_name": "com.example.stutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556709538-mjhaath9qou2n4vkcenm7pgibm6gjdn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6lXgXXLM-3Z6umJixnvUneqM2TUZBBfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556709538-mjhaath9qou2n4vkcenm7pgibm6gjdn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
